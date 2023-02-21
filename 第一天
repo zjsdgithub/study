@@ -1,0 +1,41 @@
+//第一段
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"> 
+<title>css第一课</title> 
+<style>
+p
+{
+	color:blue;
+	text-align:left;
+} 
+</style>
+</head>
+
+<body>
+<p>这是css第一课</p>
+<p>希望我能学好</p>
+</body>
+</html>
+
+//第二段
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"> 
+<title>css第一课</title> 
+<style>
+#para1
+{
+	text-align:center;
+	color:purple;
+} 
+</style>
+</head>
+
+<body>
+<p id="para1">开课</p>
+<p>这句话不受上边设定影响</p>
+</body>
+</html>
